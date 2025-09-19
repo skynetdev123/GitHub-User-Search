@@ -28,7 +28,7 @@ Tools: Fetch API / Axios
 
 Clone the repo
 
-git clone https://github.com/your-username/github-user-search.git
+git clone https://github.com/skynetdev123/github-user-search.git
 cd github-user-search
 
 
